@@ -6,7 +6,7 @@ accelerate==0.23.0
 langchain==0.0.312
 bitsandbytes==0.41.1
 sentence-transformers==3.2.1
-llama-index==0.12.6
+llama-index==0.12.9
 
 # Additional LangChain integrations
 langchain-chroma==0.1.4
